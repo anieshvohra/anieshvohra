@@ -7,4 +7,4 @@
 
 <!-- 
 --> Aniesh Vohra's GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anieshvohra&show_icons=true&theme=dark)]
+[![Aniesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anieshvohra&show_icons=true&theme=dark)]
