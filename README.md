@@ -6,13 +6,21 @@
 - ⚡ Fun fact: I know a little bit about Music Production and Sound-Engineering too.
 
 <!-- 
---> Aniesh Vohra's GitHub Stats
+--> Aniesh Vohra's GitHub Stats 📊 
 [![Aniesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anieshvohra&show_icons=true&theme=dark)]
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anieshvohra&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justalowkeyme) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniesh-vohra-168287327/) 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anieshvohra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anieshvohra&icon=0&color=0)](https://visitcount.itsvg.in)
-
